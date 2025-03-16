@@ -1,2 +1,2 @@
 # Time-domain-processor-project
-A novel time-domain processor using pulse-duration encoding for noise immunity and security
+A custom-designed processor that operates in the time domain using pulse-duration encoding for enhanced noise immunity, power efficiency, and security
